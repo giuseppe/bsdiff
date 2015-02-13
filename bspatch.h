@@ -25,8 +25,8 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-#ifndef BSDIFF_H
-# define BSDIFF_H
+#ifndef BSPATCH_H
+# define BSPATCH_H
 
 # include <stdint.h>
 
